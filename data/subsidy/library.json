@@ -1,0 +1,34 @@
+{
+  "builtAt": "2026-10-18T00:00:00Z",
+  "programs": [
+    {
+      "id": "patent",
+      "name": "Fictional training grant (SAMPLE; not law)",
+      "aliases": [
+        "patent"
+      ],
+      "agency": "Synthetic demonstration",
+      "ministryRegulation": null,
+      "layer2Docs": [
+        "DEMO-G"
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": "DEMO-G",
+      "title": "Fictional training policy — not an actual grant or law",
+      "layer": "L2"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "DEMO-G:1",
+      "docId": "DEMO-G",
+      "docTitle": "Fictional training policy — not an actual grant or law",
+      "layer": "L2",
+      "section": "Training clause 1",
+      "text": "SYNTHETIC TRAINING POLICY — NOT LAW. In this fictional training program only, consultancy services are excluded. Payment requires an invoice, a completion report and evidence of bank transfer. These invented conditions are solely for exercising the software; they do not describe any real program."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "purpose": "Selected executable API and decision-engine reference for the competition; not a full hosted-product reproduction",
+  "sourceFiles": [
+    "apps/server/src/subsidy.ts",
+    "packages/core/src/checks.ts",
+    "packages/core/src/decision.ts",
+    "packages/core/src/index.ts",
+    "packages/core/src/types.ts",
+    "packages/core/test/core.test.ts",
+    "packages/models/src/pricing.ts",
+    "packages/models/src/provider.ts",
+    "packages/models/src/vertex.ts",
+    "packages/pipeline/src/extract.ts",
+    "packages/pipeline/src/judge.ts",
+    "packages/pipeline/src/schemas.ts",
+    "packages/pipeline/src/screen.ts",
+    "packages/pipeline/src/usage.ts",
+    "packages/pipeline/test/quote.test.ts",
+    "packages/pipeline/test/reliability.test.ts",
+    "packages/pipeline/test/screen.test.ts",
+    "packages/questionnaire/src/index.ts",
+    "packages/questionnaire/src/subsidy.ts",
+    "packages/questionnaire/src/types.ts",
+    "packages/questionnaire/src/v1.ts",
+    "packages/rules/src/library.ts",
+    "packages/subsidy/src/library.ts",
+    "packages/subsidy/src/screen.ts",
+    "packages/subsidy/test/decision-regressions.test.ts"
+  ],
+  "excluded": [
+    "commercial interface",
+    "R&D implementation",
+    "company regulation collections",
+    "client records",
+    "internal guidance",
+    "private Git history",
+    "credentials",
+    "saved customer/model outputs"
+  ],
+  "fixture": "Independently authored fictional training policy, not a public-law replacement"
+}
